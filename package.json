@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
     "hardhat": "^2.13.0"
   }
+  ,"verify": "hardhat etherscan-verify --api-key 885918133c874b9da6e6079cd556f135"
 }
